@@ -1,0 +1,19 @@
+
+
+/*****barra de navegação*/
+
+ul {
+
+	border: 1px solid blue;
+	margin: 0px;
+	padding: 0px;
+	list-style: none;
+	width: 720px ;
+	background: #159cb0 url(../imagens/fundo-horizontal.png);
+}
+
+ul li {
+	border: 1px solid red;
+	display: inline;   /*faz o menu ficar horizontal*/
+	float: left;  /*faz o menu ficar horizontal*/
+}
